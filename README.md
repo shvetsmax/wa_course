@@ -5,7 +5,7 @@
     - GitHub
     - Bitbucket
 2. [x] Налаштувати репозиторій на локальній машині
-3. Створити гілки main/master, development
+3. [x] Створити гілки main/master, development
 4. Зробити feature branch, покласти туди будь-який текстовий файл та зробити ряд комітів
 5. Змержити зміни с main/master/development гілкою
 6. Створити декілька тегів
