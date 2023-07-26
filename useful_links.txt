@@ -4,3 +4,7 @@ https://stackoverflow.com/questions/7929369/how-to-rebase-local-branch-with-remo
 https://support.atlassian.com/bitbucket-cloud/docs/use-smart-commits/
 https://git-scm.com/docs/git-stash
 https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git
+# interactive tutorial
+https://learngitbranching.js.org/?locale=en
+# Sublime Merge GUI
+https://www.sublimemerge.com/
